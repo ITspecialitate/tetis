@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'Vislabākie joki pasaulē.',
         'Optimistisks.',
         'Draugs.',
-        'Padomdevējs',
+        'Padomdevējs.',
         'Cilvēks ar neizsmeļamu zināšanu bagāžu.'
     ];
 
